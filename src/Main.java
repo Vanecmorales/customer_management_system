@@ -6,7 +6,7 @@ public class Main {
             @Override
             public void run() {
                 JFrame form = new Form();
-                form.setBounds(500,250,500,200);
+                form.setBounds(500,250,600,250);
                 form.setVisible(true);
             }
         });

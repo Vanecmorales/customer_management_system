@@ -1,8 +1,19 @@
+package models;
+
 public class Client {
+    private String id;
     private String name;
     private String lastName;
     private String email;
     private String phone;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public String getName() {
         return name;
