@@ -12,7 +12,14 @@ Consiste en un CRUD para la gestión de clientes donde es posible registar nuevo
 
 ### Funcionalidades:
 
-1. Nuevo registro
-<div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/gISN2TwORjrwskMFwG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gISN2TwORjrwskMFwG">via GIPHY</a></p>
+1. Nuevo registro:
 
-2. Editar registro
+[![giphy-new.gif](https://i.postimg.cc/L670FNKZ/giphy-new.gif)](https://postimg.cc/3dXZgjwK)
+
+2. Editar registro:
+
+[![giphy-edit.gif](https://i.postimg.cc/d33nzT5B/giphy-edit.gif)](https://postimg.cc/7Jvgzb8G)
+
+3. Eliminar registro:
+
+[![giphy-delete.gif](https://i.postimg.cc/ZnXP2sBb/giphy-delete.gif)](https://postimg.cc/QKkWWbJw)
