@@ -4,13 +4,13 @@ Este proyecto fue creado con el objetivo se seguir profundizando en el uso Java 
 
 Consiste en un CRUD para la gestión de clientes donde es posible registar nuevos clientes, actualizarlos, eliminarlos y visualizar todos los cambios en tiempo real.
 
-#### Las herramientas implementadas fueron:
+### *Las herramientas implementadas fueron:*
 - SQL
 - XAMPP Control Panel
 - phpmyadmin
 - Swing GUI de IntelliJ IDEA
 
-### Funcionalidades:
+### *Funcionalidades:*
 
 1. Nuevo registro:
 
